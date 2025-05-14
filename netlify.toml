@@ -1,6 +1,6 @@
 [build]
   publish = "."  # or "public" if you have a public folder
-  publish = "build"
+  
 
 [build.environment]
   NODE_VERSION = "18"
